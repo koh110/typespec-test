@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "api",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
